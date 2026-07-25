@@ -6,7 +6,7 @@
         "dev": "astro dev",
         "build": "astro build",
         "preview": "astro preview",
-        "format": "prettier --write \"**/*.{js,jsx,ts,tsx,md,mdx,svelte,astro,json,svg,yml,yaml}\"",
+        "format": "prettier --write .",
         "lint": "astro check",
         "astro": "astro",
         "shadcn": "shadcn"
@@ -52,6 +52,7 @@
         "prettier-plugin-astro": "^0.14.1",
         "prettier-plugin-organize-imports": "^4.1.0",
         "prettier-plugin-tailwindcss": "^0.6.11",
-        "shadcn": "^2.4.0"
+        "shadcn": "^2.4.0",
+        "wrangler": "^4.114.0"
     }
 }

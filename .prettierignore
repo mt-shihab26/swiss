@@ -1,0 +1,17 @@
+# build output
+dist/
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# lockfiles
+bun.lock
+bun.lockb
+package-lock.json
+yarn.lock
+
+# cloudflare / wrangler
+.wrangler/
+worker-configuration.d.ts
