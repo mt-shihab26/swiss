@@ -13,7 +13,7 @@ A versatile collection of web tools designed to simplify your digital life and h
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/swiss.git
+    git clone https://github.com/mt-shihab26/swiss.git
     cd swiss
     ```
 2. Install dependencies:
